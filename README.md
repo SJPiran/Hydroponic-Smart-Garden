@@ -1,4 +1,8 @@
-Hydroponic Smart Garden
+<p align="center">
+  <img src="[https://nestjs.com/img/logo-small.svg](https://media.licdn.com/dms/image/D4E22AQEq4NEukaY72A/feedshare-shrink_800/0/1702220665566?e=1705536000&v=beta&t=vi3ntIqKCC7g7WnbSmIyS2pL-ubLh3FCoaECTQZ_4aY)" width="100%" alt="Hydroponic Smart Garden by sajad jalilpiran" />
+</p>
+
+#Hydroponic Smart Garden
 
 Welcome to the Hydroponic Smart Garden GitHub Repository!
 
